@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Link javascript example</title>
+</head>
+<body>
+<h1>hello,world!</h1>
+<!__link javascript file__>
+<script src="script.js"></script>
+</body>
+</html>
+script.js
+alert("javascript file is sucessfully linked!");
